@@ -15,6 +15,7 @@ Download the scripts and place them in your project. After creating a new empty 
 And proceed to their settings.
 
 <br>DailyRewardComponent.cs
+
 ![enter image description here](https://mggstudio.ru/GitHub/DailyReward/Screenshot_1.png)
 
 1. Fields localLastReceiveBonusTimeKey - this is the name of the key for PlayerPrefs, which will store the time of the last call.
@@ -23,6 +24,7 @@ And proceed to their settings.
     * For example https://worldtimeapi.org/api/timezone/Europe/Moscow this request returns a JSON string with Moscow time. The script works with it. 
  
  <br><br>DailyReward.cs
+ 
 ![enter image description here](https://mggstudio.ru/GitHub/DailyReward/Screenshot_2.png)
 
 This script is made on UnityEvent and is very easy to configure.
