@@ -36,4 +36,4 @@ This script is made on UnityEvent and is very easy to configure.
 
 This system was a good fit for my project. You can see an example of using this system in my game. [Google Play](https://play.google.com/store/apps/details?id=com.MGG.ClassicCase)
 
-    Thank you all for your attention. And sorry for my bad English.
+    Thank you all for your attention. And sorry for my bad English. This is my first public Git :)
